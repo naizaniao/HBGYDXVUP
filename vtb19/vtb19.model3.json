@@ -1,0 +1,24 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "vtb19.moc3",
+		"Textures": [
+			"vtb19.8192/texture_00.png",
+			"vtb19.8192/texture_01.png"
+		],
+		"Physics": "vtb19.physics3.json",
+		"DisplayInfo": "vtb19.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
